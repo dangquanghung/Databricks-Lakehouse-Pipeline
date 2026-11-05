@@ -1,0 +1,4 @@
+{"transaction_id":"T0001","customer_id":1001,"amount":1500.50,"currency":"VND","txn_type":"transfer","txn_timestamp":"2026-01-05T09:15:00"}
+{"transaction_id":"T0002","customer_id":1002,"amount":250.00,"currency":"USD","txn_type":"withdrawal","txn_timestamp":"2026-01-05T10:20:00"}
+{"transaction_id":"T0003","customer_id":null,"amount":99.99,"currency":"USD","txn_type":"deposit","txn_timestamp":"2026-01-06T11:00:00"}
+
